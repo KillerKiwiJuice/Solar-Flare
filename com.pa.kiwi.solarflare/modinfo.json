@@ -1,0 +1,13 @@
+{
+    "context": "client",
+    "identifier": "com.pa.kiwi.solarflare",
+    "display_name": "Solar Flare",
+    "description": "Makes the sun super pretty",
+    "author": "KillerKiwiJuice",
+    "forum": "https://forums.uberent.com/threads/rel-client-more-pew-pew.69229/",
+    "icon": "http://i.imgur.com/PQOpc3u.gif",
+    "version": "1",
+    "priority": 100,
+    "build": "85138",
+    "date": "2015/08/03"
+}
